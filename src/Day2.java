@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 public class Day2 {
-
+    
     static final int BLUE_MAX = 14;
     static final int RED_MAX = 12;
     static final int GREEN_MAX = 13;
